@@ -1,0 +1,8 @@
+{
+    "uuid": "contestcountdown@stevenquan4567",
+    "name": "Contest Countdown",
+    "description": "Displays the next Codeforces contest and its start time.",
+    "shell-version": ["3.36", "3.38", "40", "41", "42", "43", "44", "45", "46", "47"],
+    "url": "https://github.com/stevenquan4567/contestcountdown",
+    "version": 1
+}
